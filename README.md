@@ -1,16 +1,17 @@
 # todo
 
-A new Flutter project.
+Lista de tarefas com notificações 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Lista de tarefas com notificações, alteração de tema e cores para as tarefas
+- Usando sqflite
 
-A few resources to get you started if this is your first Flutter project:
+Obs. Não finalizado
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Images
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Home](https://user-images.githubusercontent.com/80997263/184201304-ba423424-3ebe-4568-bbee-f5de50930860.jpeg)
+![barra inferior](https://user-images.githubusercontent.com/80997263/184201395-41bc663f-cae4-4beb-95a2-804ae7f517d8.jpeg)
+![Add tarefa](https://user-images.githubusercontent.com/80997263/184201440-a6833dd8-513c-4f31-ab82-6ed0526fa118.jpeg)
+
